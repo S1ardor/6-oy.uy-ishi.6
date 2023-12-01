@@ -1,0 +1,137 @@
+.section_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #D8D8D8;
+}
+.what_happing {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+    margin: 0 20px;
+}
+.what_happing span {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #828282;
+}
+.section_two {
+    position: relative;
+}
+.icon_box {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    max-width: 200px;
+    width: 100%;
+    margin: 30px 0 45px 90px;
+}
+.sapn_link a {
+    text-decoration: none;
+    color: #666666;
+}
+.sectiom_two-btn {
+    position: absolute;
+    right: 15px;
+    bottom: 5px;
+    padding: 13px 25px;
+    border: none;
+    border-radius: 25px;
+    background: rgba(29, 160, 242, 0.433);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.4s ease;
+}
+.sectiom_two-btn:hover {
+    cursor: pointer;
+    background: rgb(29, 160, 242);
+    box-shadow: 0px 0px 0px 6px rgba(29,155,240,0.32);
+-webkit-box-shadow: 0px 0px 0px 6px rgba(29,155,240,0.32);
+-moz-box-shadow: 0px 0px 0px 6px rgba(29,155,240,0.32);
+}
+.sectiom_two-btn:active {
+    transform: scale(0.9);
+}
+.designsta-infor {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+}
+.section_three {
+    padding: 20px;
+    height: 150px;
+}
+.designsta-data h4 {
+font-size: 18px;
+font-weight: 700;
+line-height: 25px;
+}
+.designsta-data span {
+    color: #666666;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.designsta-data p {
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+}
+.icon_desigan-like {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 85px;
+    margin: 20px 0 45px 70px;
+}
+.icon_svg-div {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.svg_and-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sectiom_two-btn a {
+    text-decoration: none;
+    color: #fff;
+}
+.section_con{
+    margin: 20px;
+}
+.creative_infor {
+    max-width: 710px;
+    width: 100%;
+}
+.section_con {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+}
+.like_icon {
+    color: red;
+}
+.pav_icon {
+    color: green;
+}
+.svg_and-header span {
+    color: #666666;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.svg_and-header h4{
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+}
+.svg_and-header p{
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+}
